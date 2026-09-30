@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+        <rect width="600" height="400" fill="#12262B"/>
+        <circle cx="300" cy="200" r="120" fill="#1B6B8A" opacity="0.3"/>
+        <text x="300" y="190" font-family="sans-serif" font-size="20" font-weight="bold" fill="#EEF2F1" text-anchor="middle">VAYU FIELD EVIDENCE</text>
+        <text x="300" y="225" font-family="sans-serif" font-size="14" fill="#DDE5E4" text-anchor="middle">dwarka-site-mitigation.jpg</text>
+        <text x="300" y="260" font-family="monospace" font-size="12" fill="#B3321E" text-anchor="middle">GPS Verified & AI Inspected</text>
+      </svg>
